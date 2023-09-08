@@ -1,4 +1,3 @@
-# into-to-crypto
+# intro-to-crypto
 
-Конспекты, решения, реалиации алгоритмов из курса [Understanding Cryptography](www.crypto-textbook.com).
-
+Конспекты, решения, реализации алгоритмов из курса [Understanding Cryptography](www.crypto-textbook.com).
